@@ -1,84 +1,67 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brian Grant's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Brian Grant
+Data Science Student & Communication Specialist
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://linkedin.com/in/brian-grant">LinkedIn</a>
+| <a href="https://github.com/BrianGrant-Data">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Data Sciene Major & Communications Minor
 
+### Relevant Course Work
+
+__MATH 325__ Intermediate Statistics
+-
+
+__CIT 225__ Database Design & Development
+-
+
+__CSE 250__ Data Science Programming 
+- 
 
 ## Related Experience
 
-### Internships
+### Hired Work
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2020 -  Present`
+__Brigham Young University - Idaho__, Art Department Video Analyst 
+- Coded a python program to calculate Zoom meeting engagement via OpenCV motion detection and transcription parsing
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`September 2020 - Present`
+__Progrexion__, Sales Representative
+- 
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`January 2019 - April 2020`
+__NAVEX Global__, Communication Specialist
+- Captured the complex problems of callers in concise documentation
+- Used a “I can help” mindset to deliver extraordinary customer experiences to 100s every week
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2020 - July 2020`
+__Family Court Data__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Used python to parse and format family court json data 
+- Created exploratory scripts to get our team acquainted with the data
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2012-2014`
+__Service Missionary__, Fort Lauderdale, FL
 
 
 
