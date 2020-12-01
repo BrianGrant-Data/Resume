@@ -25,15 +25,18 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 'Fall 2020'
 __CSE 250__ - Data Science Programming 
-- adsf
+- Completed six projects highlighting various aspects of Data Science
+- Explored various python packages and their uses
 
 'Spring 2020'
 __MATH 325__ - Intermediate Statistics
-- aasdf
+- Used R and various R packages to explore statistical inference
+- Developed a notebook on how to manipulate, describe, and hypothesis test data
 
 'Spring 2020'
 __CIT 225__ - Database Design & Development
-- asf
+- Wrote several queries to simulate database application in business settings
+- Further explored the various types of SQL joins
 
 
 ## Related Experience
@@ -46,7 +49,8 @@ __Brigham Young University - Idaho__, Art Department Video Analyst
 
 `September 2020 - Present`
 __Progrexion__, Sales Representative
-- adsf
+- Provided credit consulting to potential clients
+- Set up initial case work for new clients
 
 `January 2019 - April 2020`
 __NAVEX Global__, Communication Specialist
