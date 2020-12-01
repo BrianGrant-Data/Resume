@@ -23,14 +23,18 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Relevant Course Work
 
-__MATH 325__ Intermediate Statistics
--
+'Fall 2020'
+__CSE 250__ - Data Science Programming 
+- adsf
 
-__CIT 225__ Database Design & Development
--
+'Spring 2020'
+__MATH 325__ - Intermediate Statistics
+- aasdf
 
-__CSE 250__ Data Science Programming 
-- 
+'Spring 2020'
+__CIT 225__ - Database Design & Development
+- asf
+
 
 ## Related Experience
 
@@ -42,7 +46,7 @@ __Brigham Young University - Idaho__, Art Department Video Analyst
 
 `September 2020 - Present`
 __Progrexion__, Sales Representative
-- 
+- adsf
 
 `January 2019 - April 2020`
 __NAVEX Global__, Communication Specialist
@@ -53,7 +57,6 @@ __NAVEX Global__, Communication Specialist
 
 `April 2020 - July 2020`
 __Family Court Data__
-
 - Used python to parse and format family court json data 
 - Created exploratory scripts to get our team acquainted with the data
 
