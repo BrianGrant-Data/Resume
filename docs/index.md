@@ -51,16 +51,6 @@ __CIT 225__ - Database Design & Development
 __Brigham Young University - Idaho__, Art Department Video Analyst 
 - Coded a python program to calculate Zoom meeting engagement via OpenCV motion detection and transcription parsing
 
-`September 2020 - Present`
-__Progrexion__, Sales Representative
-- Provided credit consulting to potential clients
-- Set up initial case work for new clients
-
-`January 2019 - April 2020`
-__NAVEX Global__, Communication Specialist
-- Captured the complex problems of callers in concise documentation
-- Used a “I can help” mindset to deliver extraordinary customer experiences to 100s every week
-
 <br>
 
 ### Data Science Consulting Team
