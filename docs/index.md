@@ -7,7 +7,6 @@ Data Science Student & Communication Specialist
 
 <div id="webaddress">
 <a href="briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://linkedin.com/in/brian-grant">LinkedIn</a>
 | <a href="https://github.com/BrianGrant-Data">GitHub</a>
 </div>
