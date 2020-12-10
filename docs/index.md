@@ -66,7 +66,7 @@ __Family Court Data__
 ## Service and Work History
 
 `2012-2014`
-__Service Missionary__, Fort Lauderdale, FL
+__Missionary__, Fort Lauderdale, FL
 
 
 
