@@ -14,10 +14,10 @@ Data Science Student & Communication Specialist
 <!-- https://www.monique.tech/the-art-of-markdown -->
 ---
 ## Education 
-`Expected 2021`
+`Expected Graduation: 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Data Sciene Major & Communications Minor
+- Data Science Major & Communications Minor
 
 <br>
 
@@ -30,7 +30,7 @@ __MATH 425__ - Applied Linear Regression
 `Fall 2020`
 __CSE 250__ - Data Science Programming 
 - Completed python projects demonstrating the use of Sklearn, Altair, Pandas, Numpy, Sqlite3, and Github.
-- Presented those projects, methods, and results in simple to read pdf documents
+- Presented those projects, methods, and results in easy to read pdf documents
 
 `Spring 2020`
 __MATH 325__ - Intermediate Statistics
@@ -65,7 +65,7 @@ __Assistant Manager on Intrepid Potash Optimization Project__
 
 `April 2020 - July 2020`
 __Analyst on Family Court Data Exploration Project__
-- Used python to parse and format family court json data 
+- Used python to parse and format family court .json data 
 - Created exploratory scripts to get our team acquainted with the data
 
 <br>
