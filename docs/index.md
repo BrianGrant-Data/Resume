@@ -25,7 +25,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Fall 2021`
 __MATH 425__ - Applied Linear Regression
 - Created and used simple and multiple linear regression models to make predictions and test hypotheses
-- Validated the fit of models using R<sup>2</sup> and adjusted R<sup>2</sup>
+- Validated the fit of models using R squared and adjusted R squared values
 
 `Fall 2020`
 __CSE 250__ - Data Science Programming 
