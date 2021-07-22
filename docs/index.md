@@ -22,25 +22,24 @@ __Brigham Young University - Idaho__, Rexburg, ID
 <br>
 
 ### Relevant Course Work
+`Spring 2021`
+__CSE 450__  - Machine Learning and Data Mining
+- Constructed and evaluated machine learning models using K nearest neighbors, decision trees, random forests, convolutional neural networks, and recursive neural networks
+- Lead a group in developing and testing a model for predicting future sales using simple dense neural networks
+
+`Spring 2021`
+__CSE 350__ - Data Wrangling and Visualization
+- Used ggplot2, tidyverse and a myriad of other packages to format and visualize data
+
 `Fall 2021`
 __MATH 425__ - Applied Linear Regression
 - Created and used simple and multiple linear regression models to make predictions and test hypotheses
 - Validated the fit of models using R squared and adjusted R squared values
 
-`Fall 2020`
-__CSE 250__ - Data Science Programming 
-- Completed python projects demonstrating the use of Sklearn, Altair, Pandas, Numpy, Sqlite3, and Github.
-- Presented those projects, methods, and results in easy to read pdf documents
-
 `Spring 2020`
 __MATH 325__ - Intermediate Statistics
 - Used R and various R packages to explore statistical inference
 - Developed a notebook on how to manipulate, describe, and hypothesis test data
-
-`Spring 2020`
-__CIT 225__ - Database Design & Development
-- Wrote several queries to simulate database application in business settings
-- Further explored the various types of SQL joins
 
 <br>
 
@@ -57,9 +56,13 @@ __Brigham Young University - Idaho__, Art Department Video Data Analyst
 <br>
 
 ### University Data Science Society 
+`April 2021 - July 2021`
+__Manager for a Consulting Team for Good 2 Go__
+- Led a small team through geojson data manipulation and visualization
+- Taught a team virtual environments and other trouble shooting techniques
 
 `January 2021 - March 2021`
-__Assistant Manager on Intrepid Potash Optimization Project__
+__Assistant Manager for a Consulting Team for Intrepid Potash__
 - Developed a multilinear regression model for optimizing production line output
 - Helped guide a team of data analysts in taking raw data and turning it into executable insights
 
