@@ -71,6 +71,5 @@ __Analyst on Family Court Data Exploration Project__
 - Used python to parse and format family court .json data 
 - Created exploratory scripts to get our team acquainted with the data
 
-<br>
 
 
