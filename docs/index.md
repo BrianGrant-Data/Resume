@@ -19,7 +19,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Data Science Major & Communications Minor
 
-<br>
 
 ### Relevant Course Work
 `Spring 2021`
@@ -41,7 +40,6 @@ __MATH 325__ - Intermediate Statistics
 - Used R and various R packages to explore statistical inference
 - Developed a notebook on how to manipulate, describe, and hypothesis test data
 
-<br>
 
 ---
 
@@ -53,7 +51,6 @@ __MATH 325__ - Intermediate Statistics
 __Brigham Young University - Idaho__, Art Department Video Data Analyst 
 - Coded a python program to calculate Zoom meeting engagement via OpenCV motion detection and transcription parsing
 
-<br>
 
 ### University Data Science Society 
 `April 2021 - July 2021`
