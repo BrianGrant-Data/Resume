@@ -47,7 +47,7 @@ __MATH 325__ - Intermediate Statistics
 
 `July 2020 -  December 2020`
 __Video-Data Analyst__, Brigham Young University - Idaho Art Department 
-- Coded a python program to calculate Zoom meeting engagement via OpenCV motion detection and transcription parsing
+- Used Python, OpenCV motion detection, and transcription parsing to calculate Zoom meeting engagement
 
 
 ### Volunteer Experience
