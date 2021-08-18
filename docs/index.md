@@ -46,7 +46,7 @@ __MATH 325__ - Intermediate Statistics
 ## Related Experience
 
 `July 2020 -  December 2020`
-__Art Department Video Data Analyst__, Brigham Young University - Idaho
+__Video-Data Analyst__, Brigham Young University - Idaho Art Department 
 - Coded a python program to calculate Zoom meeting engagement via OpenCV motion detection and transcription parsing
 
 
