@@ -3,7 +3,6 @@ layout: cv
 title: Brian Grant's Resume
 ---
 # Brian Grant
-### 
 Data Science Student & Communication Specialist
 
 <div id="webaddress">
