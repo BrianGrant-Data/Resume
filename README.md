@@ -19,8 +19,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Data Science Major & Communications Minor
 
-<br>
-
 ### Relevant Course Work
 `Fall 2021`
 __MATH 425__ - Applied Linear Regression
@@ -42,8 +40,6 @@ __CIT 225__ - Database Design & Development
 - Wrote several queries to simulate database application in business settings
 - Further explored the various types of SQL joins
 
-<br>
-
 ---
 
 ## Related Experience
@@ -53,8 +49,6 @@ __CIT 225__ - Database Design & Development
 `July 2020 -  December 2020`
 __Brigham Young University - Idaho__, Art Department Video Data Analyst 
 - Coded a python program to calculate Zoom meeting engagement via OpenCV motion detection and transcription parsing
-
-<br>
 
 ### University Data Science Society 
 
@@ -67,7 +61,3 @@ __Assistant Manager on Intrepid Potash Optimization Project__
 __Analyst on Family Court Data Exploration Project__
 - Used python to parse and format family court .json data 
 - Created exploratory scripts to get our team acquainted with the data
-
-<br>
-
-
