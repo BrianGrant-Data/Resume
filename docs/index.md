@@ -45,18 +45,18 @@ __MATH 325__ - Intermediate Statistics
 
 ## Related Experience
 `July 2020 -  December 2020`
-__Video-Data Analyst__, Brigham Young University - Idaho Art Department 
+__Video-Data Analyst__, BYU-I Art Department 
 - Used Python, OpenCV motion detection, and transcription parsing to calculate Zoom meeting engagement
 
 
 ## Volunteer Experience
 `April 2021 - July 2021`
-__Manager for a Consulting Team for Good 2 Go__
+__Consulting Team Manager for Good 2 Go__
 - Led a small team through geojson data manipulation and visualization
 - Taught a team virtual environments and other trouble shooting techniques
 
 `January 2021 - March 2021`
-__Assistant Manager for a Consulting Team for Intrepid Potash__
+__Consulting Team Assistant Manager for Intrepid Potash__
 - Developed a multilinear regression model for optimizing production line output
 - Helped guide a team of data analysts in taking raw data and turning it into executable insights
 
