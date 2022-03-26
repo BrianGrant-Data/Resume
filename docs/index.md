@@ -46,7 +46,7 @@ __MATH 119__ - Applied Calculus for Data Analysis
 
 ## Related Experience
 `January 2022 - April 2022`
-__Computer Vision and Filtering__, Senior Project
+__Computer Vision and Filtering Research__, Senior Project
 - Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed in real time 
 - Presented the program at BYU-I's Research and Creative Works Conference
 
