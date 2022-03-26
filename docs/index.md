@@ -12,11 +12,14 @@ title: Brian Grant's Resume
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+
+
 ---
+
+
 ## Education 
 `Expected Graduation: December 2022`
 __Brigham Young University - Idaho__
-
 - Data Science Major & Communications Minor
 
 
@@ -39,8 +42,8 @@ __MATH 325__ - Intermediate Statistics
 
 ---
 
-## Related Experience
 
+## Related Experience
 `July 2020 -  December 2020`
 __Video-Data Analyst__, Brigham Young University - Idaho Art Department 
 - Used Python, OpenCV motion detection, and transcription parsing to calculate Zoom meeting engagement
