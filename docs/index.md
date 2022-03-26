@@ -35,19 +35,23 @@ __MATH 425__ - Applied Linear Regression
 - Created and used simple and multiple linear regression models to make predictions and test hypotheses
 - Validated the fit of models using R squared and adjusted R squared values
 
-__MATH 325__ - Intermediate Statistics
-- Used R and various R packages to explore statistical inference
-- Developed a notebook on how to manipulate, describe, and hypothesis test data
+__MATH 119__ - Applied Calculus for Data Analysis
+- Used R, gamma and exponential distributions to estimate population data based on sample data
+- Exploring the transformation and fitting of distribution formulas to data points
 
 
 ---
 
 
 ## Related Experience
+`January 2022 - April 2022`
+__Computer Vision and Filtering__, Senior Project
+- Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed in real time 
+- Presented the program at BYU-I's Research and Creative Works Conference
+
 `July 2020 -  December 2020`
 __Video-Data Analyst__, BYU-I Art Department 
 - Used Python, OpenCV motion detection, and transcription parsing to calculate Zoom meeting engagement
-
 
 ## Volunteer Experience
 `April 2021 - July 2021`
@@ -60,10 +64,6 @@ __Consulting Team Assistant Manager for Intrepid Potash__
 - Developed a multilinear regression model for optimizing production line output
 - Helped guide a team of data analysts in taking raw data and turning it into executable insights
 
-`April 2020 - July 2020`
-__Analyst on Family Court Data Exploration Project__
-- Used python to parse and format family court .json data 
-- Created exploratory scripts to get our team acquainted with the data
 
 
 
