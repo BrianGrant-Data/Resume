@@ -39,7 +39,6 @@ __MATH 119__ - Applied Calculus for Data Analysis
 - Used R, gamma and exponential distributions to estimate population data based on sample data
 - Exploring the transformation and fitting of distribution formulas to data points
 
-
 ---
 
 
