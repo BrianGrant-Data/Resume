@@ -3,7 +3,7 @@ layout: cv
 title: Brian Grant's Resume
 ---
 # Brian Grant
-## <FONT COLOR="RED"> Data Science Student & Communication Specialist </FONT>
+Data Science Student & Communication Specialist
 
 <div id="webaddress">
 <a href="briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
