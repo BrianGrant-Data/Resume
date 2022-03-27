@@ -37,7 +37,7 @@ __MATH 425__ - Applied Linear Regression
 
 __MATH 119__ - Applied Calculus for Data Analysis
 - Explored the transformation and fitting of distribution formulas to data points
-- Infered about a population using gamma and exponential distributions on sample data
+- Infered about a population using gamma and exponential distributions on samples
 
 ---
 
@@ -50,7 +50,7 @@ __Computer Vision and Filtering Research__, Senior Project
 
 `July - December 2020`
 __Video-Data Analyst__, BYU-I Art Department 
-- Used Python, OpenCV, and transcription parsing to calculate Zoom meeting engagement
+- Used Python, OpenCV, and transcription parsing to calculate Zoom engagement
 
 ## Volunteer Experience
 `April - July 2021`
