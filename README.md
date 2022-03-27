@@ -1,56 +1,68 @@
-# md-resume
+---
+layout: cv
+title: Brian Grant's Resume
+---
+# Brian Grant
+Data Science Student & Communication Specialist
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
+| <a href="https://linkedin.com/in/brian-grant">linkedin.com/in/Brian-Grant</a>
+| <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
+</div>
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
-***
 
-## Customization
+---
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+## Education 
+`Expected Graduation: December 2022`
+__Brigham Young University - Idaho__
+- Data Science Major & Communications Minor
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Relevant Course Work
+__CSE 450__  - Machine Learning and Data Mining
+- Constructed and evaluated machine learning models using K nearest neighbors, decision trees, random forests, convolutional neural networks, and recursive neural networks
+- Lead a group in developing and testing a model for predicting future sales using simple dense neural networks
 
-adding your skills, jobs and education.
+__CSE 350__ - Data Wrangling and Visualization
+- Used ggplot2, tidyverse and a myriad of other packages to format and visualize data
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+__MATH 425__ - Applied Linear Regression
+- Created and used simple and multiple linear regression models to make predictions and test hypotheses
+- Validated the fit of models using R squared and adjusted R squared values
 
-## Distribution
+__MATH 119__ - Applied Calculus for Data Analysis
+- Used R, gamma and exponential distributions to estimate population data based on sample data
+- Exploring the transformation and fitting of distribution formulas to data points
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+---
 
-### I. Use Github Pages to publish it online
 
-1. Create a new branch called `gh-pages`.
-2. Head to *yourusername*.github.io/mdresume to see your resume live.
+## Related Experience
+`January 2022 - April 2022`
+__Computer Vision and Filtering Research__, Senior Project
+- Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed in real time 
+- Presented the program at BYU-I's Research and Creative Works Conference
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+`July 2020 -  December 2020`
+__Video-Data Analyst__, BYU-I Art Department 
+- Used Python, OpenCV motion detection, and transcription parsing to calculate Zoom meeting engagement
 
-## Styling
+## Volunteer Experience
+`April 2021 - July 2021`
+__Consulting Team Manager for Good 2 Go__
+- Led a small team through geojson data manipulation and visualization
+- Taught a team virtual environments and other trouble shooting techniques
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+`January 2021 - March 2021`
+__Consulting Team Assistant Manager for Intrepid Potash__
+- Developed a multilinear regression model for optimizing production line output
+- Helped guide a team of data analysts in taking raw data and turning it into executable insights
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
 
-### Author
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
