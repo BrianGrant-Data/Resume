@@ -22,44 +22,46 @@ Data Science Student & Communication Specialist
 __Brigham Young University - Idaho__
 - Data Science Major & Communications Minor
 
+## Work Experience
+`Jul - Dec 2020`
+__Video-Data Analyst__, BYU-I Art Department 
+- Used Python, OpenCV, and transcription parsing to track Zoom engagement
 
-## Relevant Course Work
-__CSE 450__  - Machine Learning and Data Mining
-- Lead a group in predicting sales by deploying a simple dense neural network
-- Constructed convolutional neural networks and recursive neural networks
+## Voluntary Experience
+`Apr - Jul 2021`
+__Team Manager__, BYU-Idaho Data Science Society
+- Led a consulting project for Good 2 Go
+- Taught a team virtual environments and other trouble shooting techniques
+- Led a 2 data analysts through geojson data manipulation and visualization
 
-__CSE 350__ - Data Wrangling and Visualization
-- Used ggplot2, tidyverse and a myriad of other packages to format and visualize data
+`Jan - Mar 2021`
+__Assistant Team Manager__, BYU-Idaho Data Science Society
+- Co-led a consulting project for Intrepid Potash
+- Guided a team of 9 data analysts in gathering executable insights from raw data
+- Developed a multilinear regression model for optimizing production line output
 
-__MATH 425__ - Applied Linear Regression
-- Validated the fit of models using R squared and adjusted R squared values
-- Created simple and multiple linear regression models to make inferences
-
-__MATH 119__ - Applied Calculus for Data Analysis
-- Explored the transformation and fitting of distribution formulas to data points
-- Infered about a population using gamma and exponential distributions on samples
-
-
----
-
-
-## Related Experience
-`January - April 2022`
+## Projects
+`Jan - Apr 2022`
 __Computer Vision and Filtering Research__, Senior Project
 - Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed 
 - Presented the project at BYU-I's Research and Creative Works Conference
 
-`July - December 2020`
-__Video-Data Analyst__, BYU-I Art Department 
-- Used Python, OpenCV, and transcription parsing to calculate Zoom engagement
+---
 
-## Volunteer Experience
-`April - July 2021`
-__Consulting Team Manager for Good 2 Go__
-- Taught a team virtual environments and other trouble shooting techniques
-- Led a small team through geojson data manipulation and visualization
 
-`January - March 2021`
-__Consulting Team Assistant Manager for Intrepid Potash__
-- Guided a team of data analysts in gathering executable insights from raw data
-- Developed a multilinear regression model for optimizing production line output
+## Courses & Certificates
+__Machine Learning and Data Mining__ - BYU-Idaho
+- Lead a group in predicting sales by deploying a simple dense neural network
+- Constructed convolutional neural networks and recursive neural networks
+
+__Data Wrangling and Visualization__ - BYU-Idaho
+- Used ggplot2, tidyverse and a myriad of other packages to format and visualize data
+
+__Applied Linear Regression__ - BYU-Idaho
+- Validated the fit of models using R squared and adjusted R squared values
+- Created simple and multiple linear regression models to make inferences
+
+__Applied Calculus for Data Analysis__ - BYU-Idaho
+- Explored the transformation and fitting of distribution formulas to data points
+- Infered about a population using gamma and exponential distributions on samples
+
