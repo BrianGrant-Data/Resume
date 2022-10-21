@@ -22,6 +22,11 @@ Data Science Student & Communication Specialist
 __Brigham Young University - Idaho__
 - Data Science Major & Communications Minor
 
+
+---
+
+
+
 ## Work Experience
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 
@@ -40,14 +45,16 @@ __Assistant Team Manager__, BYU-Idaho Data Science Society
 - Guided a team of 9 data analysts in gathering executable insights from raw data
 - Developed a multilinear regression model for optimizing production line output
 
+
+---
+
+
+
 ## Projects
 `Jan - Apr 2022`
 __Computer Vision and Filtering Research__, Senior Project
 - Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed 
 - Presented the project at BYU-I's Research and Creative Works Conference
-
----
-
 
 ## Courses & Certificates
 __Machine Learning and Data Mining__ - BYU-Idaho
