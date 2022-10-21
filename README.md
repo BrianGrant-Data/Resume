@@ -31,7 +31,7 @@ __Video-Data Analyst__, BYU-I Art Department
 `Apr - Jul 2021`
 __Team Manager__, BYU-Idaho Data Science Society
 - Led a consulting project for Good 2 Go
-- Led a 2 data analysts through geojson data manipulation and visualization
+- Led a team of 2 data analysts through geojson data manipulation and visualization
 - Taught a team virtual environments and other trouble shooting techniques
 
 `Jan - Mar 2021`
