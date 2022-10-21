@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__
 __Video-Data Analyst__, BYU-I Art Department 
 - Used Python, OpenCV, and transcription parsing to track Zoom engagement
 
-## Voluntary Experience
+## Volunteer Experience
 `Apr - Jul 2021`
 __Team Manager__, BYU-Idaho Data Science Society
 - Led a consulting project for Good 2 Go
