@@ -31,13 +31,13 @@ __Video-Data Analyst__, BYU-I Art Department
 `Apr - Jul 2021`
 __Team Manager__, BYU-Idaho Data Science Society
 - Led a consulting project for Good 2 Go
-- Led a 2 data analysts through geojson data manipulation and visualization
+- Led a team of 3 data analysts through geojson data manipulation and visualization
 - Taught a team virtual environments and other trouble shooting techniques
 
 `Jan - Mar 2021`
 __Assistant Team Manager__, BYU-Idaho Data Science Society
 - Co-led a consulting project for Intrepid Potash
-- Guided a team of 9 data analysts in gathering executable insights from raw data
+- Guided a team of 10 data analysts in gathering executable insights from raw data
 - Developed a multilinear regression model for optimizing production line output
 
 ## Projects
