@@ -22,11 +22,6 @@ Data Science Student & Communication Specialist
 __Brigham Young University - Idaho__
 - Data Science Major & Communications Minor
 
-
----
-
-
-
 ## Work Experience
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 
