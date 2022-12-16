@@ -51,7 +51,7 @@ __Assistant Team Manager__, BYU-Idaho Data Science Society
 
 
 ## Projects
-`Jan - Apr 2022`
+`Sep - Dec 2022`
 __Construction Cost Inflation Prediction__, Consulting Project
 - Produced a data pipeline for feeding API data into regression models
 - Debugged code and prepared code for handling potential future errors
