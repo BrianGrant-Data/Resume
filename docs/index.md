@@ -52,6 +52,11 @@ __Assistant Team Manager__, BYU-Idaho Data Science Society
 
 ## Projects
 `Jan - Apr 2022`
+__Construction Cost Inflation Prediction__, Consulting Project
+- Produced a data pipeline for feeding API data into regression models
+- Debugged code and prepared code for handling potential future errors
+
+`Jan - Apr 2022`
 __Computer Vision and Filtering Research__, Senior Project
 - Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed 
 - Presented the project at BYU-I's Research and Creative Works Conference
