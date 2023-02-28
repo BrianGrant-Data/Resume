@@ -70,4 +70,4 @@ __Applied Linear Regression__ - BYU-Idaho
 
 __Applied Calculus for Data Analysis__ - BYU-Idaho
 - Explored the transformation and fitting of distribution formulas to data points
-- Infered about a population using gamma and exponential distributions on samples
+- Inferred about a population using gamma and exponential distributions on samples
