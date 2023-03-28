@@ -19,11 +19,14 @@ Why:
  - This also gives a road map for helping others to learn what I've learned. You could use it for article ideas to write about.
 
 Key Branches:
-- Data Wrangling
-- Data Visualization
-- Data Mining
-- Database Managment
-- Data Analysis
+- Data Cleaning (Preparation)
+- Data Visualization (Presentation)
+- Data Mining (Collection)
+- Database Managment (Access & Storage)
+- Data Analysis 
 - Artificial Intelligence
-
+- Error Handling (Debugging)
+- Data Security
 '''
+
+
