@@ -23,7 +23,7 @@ Key Branches:
 - Data Visualization (Presentation)
 - Data Mining (Collection)
 - Database Managment (Access & Storage)
-- Statistical Analysis (Insight Generation)
+- Probability & Statistics
 - Calculus & Linear Algebra (Advanced Mathematics)
 - Machine Learning
 - Error Handling (Debugging)
