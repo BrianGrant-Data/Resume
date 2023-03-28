@@ -23,8 +23,8 @@ Key Branches:
 - Data Visualization (Presentation)
 - Data Mining (Collection)
 - Database Managment (Access & Storage)
-- Data Analysis 
-- Artificial Intelligence
+- Statistical Analysis (Insight Generation)
+- Artificial Intelligence & Automation
 - Error Handling (Debugging)
 - Data Security
 '''
