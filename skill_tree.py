@@ -24,9 +24,16 @@ Key Branches:
 - Data Mining (Collection)
 - Database Managment (Access & Storage)
 - Statistical Analysis (Insight Generation)
-- Artificial Intelligence & Automation
+- Calculus & Linear Algebra (Advanced Mathematics)
+- Machine Learning
 - Error Handling (Debugging)
 - Data Security
+
+Key Mediums:
+- Python 
+- SQL
+- R
+
 '''
 
 
