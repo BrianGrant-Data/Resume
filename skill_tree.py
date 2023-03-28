@@ -14,7 +14,16 @@ Needs:
  - detect when the skill tree circles upon itself (ex: if then statements > for loops > if then statements)
  - plot the dataframe as a visual skill tree
  
- Why:
+Why:
  - As I record the skills I gain this might be a neat and informative representation of what I've learned.
  - This also gives a road map for helping others to learn what I've learned. You could use it for article ideas to write about.
+
+Key Branches:
+- Data Wrangling
+- Data Visualization
+- Database Managment
+- Data Analysis
+- Artificial Intelligence
+- 
+
 '''
