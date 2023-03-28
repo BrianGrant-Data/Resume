@@ -21,9 +21,9 @@ Why:
 Key Branches:
 - Data Wrangling
 - Data Visualization
+- Data Mining
 - Database Managment
 - Data Analysis
 - Artificial Intelligence
-- 
 
 '''
