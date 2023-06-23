@@ -22,10 +22,18 @@ Data Science Student & Communication Specialist
 __Brigham Young University - Idaho__
 - Data Science Major & Communications Minor
 
+
 ## Work Experience
+`Aor 2023 - Current`
+__Junior Analyst__, the Research & Business Development Center 
+- Used survey and data gathering to advise a business through their first expansion 
+- Utilized agile methodologies to lead a team of 6 analysts in a hybrid work environment
+- Geographic data manipulation
+
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 
 - Used Python, OpenCV, and transcription parsing to track Zoom engagement
+
 
 ## Volunteer Experience
 `Apr - Jul 2021`
@@ -55,6 +63,7 @@ __Construction Cost Inflation Prediction__, Consulting Project
 __Computer Vision and Filtering Research__, Senior Project
 - Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed 
 - Presented the project at BYU-I's Research and Creative Works Conference
+
 
 ## Courses & Certificates
 __Machine Learning and Data Mining__ - BYU-Idaho
