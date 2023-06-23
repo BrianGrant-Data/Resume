@@ -25,9 +25,10 @@ __Brigham Young University - Idaho__
 
 ## Work Experience
 `Aor 2023 - Current`
-__Intern Junior Analyst__, the Research & Business Development Center 
-- Used survey and data gathering to advise a business through their first expansion 
-- Utilized agile methodologies to lead a team of 6 analysts
+__Junior Analyst__, the Research & Business Development Center
+- A 300 hour internship
+- Used data gathered by the team to advise a business through their first expansion 
+- Utilized agile methodologies to lead a team of 5 other analysts
 
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 
