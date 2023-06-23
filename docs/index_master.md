@@ -28,7 +28,6 @@ __Brigham Young University - Idaho__
 __Junior Analyst__, the Research & Business Development Center 
 - Used survey and data gathering to advise a business through their first expansion 
 - Utilized agile methodologies to lead a team of 6 analysts in a hybrid work environment
-- Geographic data manipulation
 
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 
