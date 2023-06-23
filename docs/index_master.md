@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__
 `Aor 2023 - Current`
 __Junior Analyst__, Internship at the Research & Business Development Center 
 - Used survey and data gathering to advise a business through their first expansion 
-- Utilized agile methodologies to lead a team of 6 analysts in a hybrid work environment
+- Utilized Agile methodologies to lead a team of 6 analysts in a hybrid work environment
 
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 
