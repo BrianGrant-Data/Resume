@@ -25,7 +25,7 @@ __Brigham Young University - Idaho__
 
 ## Work Experience
 `Aor 2023 - Current`
-__Junior Analyst__, the Research & Business Development Center 
+__Junior Analyst__, Internship at the Research & Business Development Center 
 - Used survey and data gathering to advise a business through their first expansion 
 - Utilized agile methodologies to lead a team of 6 analysts in a hybrid work environment
 - Geographic data manipulation
