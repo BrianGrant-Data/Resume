@@ -74,7 +74,3 @@ __Data Wrangling and Visualization__ - BYU-Idaho
 __Applied Linear Regression__ - BYU-Idaho
 - Validated the fit of models using R squared and adjusted R squared values
 - Created simple and multiple linear regression models to make inferences
-
-__Applied Calculus for Data Analysis__ - BYU-Idaho
-- Explored the transformation and fitting of distribution formulas to data points
-- Inferred about a population using gamma and exponential distributions on samples
