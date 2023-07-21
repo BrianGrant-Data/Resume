@@ -18,7 +18,7 @@ Data Science Student & Communication Specialist
 
 
 ## Education 
-`Expected Graduation: July 2023`
+`Graduation: July 2023`
 __Brigham Young University - Idaho__
 - Data Science Major & Communications Minor
 
