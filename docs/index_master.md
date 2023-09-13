@@ -7,7 +7,7 @@ Data Science Student & Communication Specialist
 
 <div id="webaddress">
 <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
-| <a href="https://linkedin.com/in/brian-grant">linkedin.com/in/Brian-Grant</a>
+| <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
 | <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
 </div>
 
@@ -27,8 +27,7 @@ __Brigham Young University - Idaho__
 `Aor 2023 - Current`
 __Junior Analyst__, Internship at the Research & Business Development Center 
 - Used survey and data gathering to advise a business through their first expansion 
-- Utilized agile methodologies to lead a team of 6 analysts in a hybrid work environment
-- Geographic data manipulation
+- Utilized Agile methodologies to lead a team of 6 analysts in a hybrid work environment
 
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 

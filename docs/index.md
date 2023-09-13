@@ -9,6 +9,7 @@ Recent Data Science Graduate with Excellent Communication and Problem-Solving Sk
 Email: <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
 | LinkedIn: <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
 | GitHub: <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
+
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -76,6 +77,7 @@ __Real-Time Feature Recognition Using Computer Vision__, Senior Project
 `Graduation: July 2023`
 __Brigham Young University - Idaho__
 - Bachelor of Science in Data Science, with a Minor in Communications
+
 
 
 ## Courses & Certificates
