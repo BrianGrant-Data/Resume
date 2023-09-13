@@ -16,7 +16,8 @@ Email: <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
 
 
 ---
-
+## Skills
+Python | R | SQL | Microsoft Power BI | Power Queries | Machine Learning | Intermediate Statistics | Regression Modeling
 
 ## Related Experience
 
@@ -67,16 +68,3 @@ __Construction Cost Inflation Prediction__, BYU-I Consulting Project
 `Jan - Apr 2022`
 __Real-Time Content Moderation__, BYU-I Senior Project
 - Implemented OpenCV & MediaPipe computer vision models to monitor and edit video streams at 10+ FPS
-
-
-### Other Courses
-__Machine Learning and Data Mining__ - BYU-Idaho
-- Lead a group in predicting sales by deploying a simple dense neural network
-- Constructed convolutional neural networks and recursive neural networks
-
-__Data Wrangling and Visualization__ - BYU-Idaho
-- Used ggplot2, tidyverse and a myriad of other packages to format and visualize data
-
-__Applied Linear Regression__ - BYU-Idaho
-- Validated the fit of models using R squared and adjusted R squared values
-- Created simple and multiple linear regression models to make inferences
