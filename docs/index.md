@@ -69,7 +69,7 @@ __Real-Time Content Moderation__, BYU-I Senior Project
 - Implemented OpenCV & MediaPipe computer vision models to monitor and edit video streams at 10+ FPS
 
 
-### Other Courses & Certificates
+### Other Courses
 __Machine Learning and Data Mining__ - BYU-Idaho
 - Lead a group in predicting sales by deploying a simple dense neural network
 - Constructed convolutional neural networks and recursive neural networks
