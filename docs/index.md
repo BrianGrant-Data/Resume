@@ -4,7 +4,7 @@ title: Brian Grant's Resume
 ---
 
 # Brian Grant
-Recent Data Science Graduate with Excellent Communication and Problem-Solving Skills, Eager to Contribute Data-Driven Value
+Recent Data Science Graduate with Excellent Communication and Problem-Solving Skills; Eager to Contribute Data-Driven Value
 <div id="webaddress">
 Email: <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
 | LinkedIn: <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
