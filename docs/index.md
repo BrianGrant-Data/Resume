@@ -2,13 +2,14 @@
 layout: cv
 title: Brian Grant's Resume
 ---
-# Brian Grant
-Data Science Student & Communication Specialist
 
+# Brian Grant
+Recent Data Science Graduate with Excellent Communication and Problem-Solving Skills, Eager to Contribute Data-Driven Value
 <div id="webaddress">
-<a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
-| <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
-| <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
+Email: <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
+| LinkedIn: <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
+| GitHub: <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
+
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,39 +18,45 @@ Data Science Student & Communication Specialist
 ---
 
 
-## Education 
-`Graduation: July 2023`
-__Brigham Young University - Idaho__
-- Data Science Major & Communications Minor
-
-
 ## Work Experience
-`Aor 2023 - Jul 2023`
-__Junior Analyst__, the Research & Business Development Center
-- A 300 hour internship
-- Used data gathered by the team to advise a business through their first expansion 
-- Utilized agile methodologies to lead a team of 5 other analysts
+`Jul 2023 - Sep 2023`
+__Intern Data Analyst__, the Research & Business Development Center
+- Completed a sentiment analysis using over 1,000 cells of qualitative data from over 450 respondents
+- Provided data-backed answers for our client's 5 key city branding initiative questions
+- Identified the most frequent terms and topics using Power BI and Power Queries
+- Quality-controlled data visualizations for our team of 7 researchers
 
-`Jul - Dec 2020`
-__Video-Data Analyst__, BYU-I Art Department 
-- Used Python, OpenCV, and transcription parsing to track Zoom engagement
+`Aor 2023 - Jul 2023`
+__Intern Data Analyst & SCRUM Master__, the Research & Business Development Center
+- Delivered a recommendation for a $5,000-$10,000 under-budget lease option while meeting requested specifications and appealing to 100% of the target client base
+- Evaluated $25,000 monthly sports facility leases for market readiness based on survey responses, US Census API data, and ArcGIS data
+- Lead SCRUM and sprint meetings for a team of 6 analysts 
+- Presented the results of our 3-week sprints to our Research Director
 
 
 ## Volunteer Experience
 `Apr - Jul 2021`
 __Team Manager__, BYU-Idaho Data Science Society
-- Led a consulting project for Good 2 Go
+- Provided exploratory geographic analysis of Idaho residential & commercial properties
 - Led a team of 2 data analysts through geojson data manipulation and visualization
 - Taught a team virtual environments and other trouble shooting techniques
 
 `Jan - Mar 2021`
 __Assistant Team Manager__, BYU-Idaho Data Science Society
-- Co-led a consulting project for Intrepid Potash
+- Optimized a multi-linear regression model for use in production processes
 - Guided a team of 9 data analysts in gathering executable insights from raw data
-- Developed a multilinear regression model for optimizing production line output
 
 
 ---
+
+
+## Hard Skills
+- Python
+- SQL
+- R
+- Microsoft Power BI
+- Microsoft Power Query
+- Git & Github
 
 
 ## Projects
@@ -59,9 +66,18 @@ __Construction Cost Inflation Prediction__, Consulting Project
 - Debugged code and prepared code for handling potential future errors
 
 `Jan - Apr 2022`
-__Computer Vision and Filtering Research__, Senior Project
-- Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed 
-- Presented the project at BYU-I's Research and Creative Works Conference
+__Real-Time Feature Recognition Using Computer Vision__, Senior Project
+- Programmed a computer vision application that monitored and edited video streams in real-time at 10+ FPS
+
+
+---
+
+
+## Education 
+`Graduation: July 2023`
+__Brigham Young University - Idaho__
+- Bachelor of Science in Data Science, with a Minor in Communications
+
 
 
 ## Courses & Certificates
