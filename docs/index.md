@@ -2,13 +2,13 @@
 layout: cv
 title: Brian Grant's Resume
 ---
-# Brian Grant
-Data Science Student & Communication Specialist
 
+# Brian Grant
+Aspiring Data Analyst & Communication Specialist
 <div id="webaddress">
-<a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
-| <a href="https://linkedin.com/in/brian-grant">linkedin.com/in/Brian-Grant</a>
-| <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
+Email: <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
+| LinkedIn: <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
+| GitHub: <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,15 +17,17 @@ Data Science Student & Communication Specialist
 ---
 
 
-## Education 
-`Expected Graduation: July 2023`
-__Brigham Young University - Idaho__
-- Data Science Major & Communications Minor
-
 ## Work Experience
+`Aor 2023 - Current`
+__Junior Analyst__, the Research & Business Development Center
+- A 300 hour internship
+- Used data gathered by the team to advise a business through their first expansion 
+- Utilized agile methodologies to lead a team of 5 other analysts
+
 `Jul - Dec 2020`
 __Video-Data Analyst__, BYU-I Art Department 
 - Used Python, OpenCV, and transcription parsing to track Zoom engagement
+
 
 ## Volunteer Experience
 `Apr - Jul 2021`
@@ -44,6 +46,12 @@ __Assistant Team Manager__, BYU-Idaho Data Science Society
 ---
 
 
+## Skills
+- 1
+- 2
+- 3
+- 4
+
 
 ## Projects
 `Sep - Dec 2022`
@@ -56,6 +64,16 @@ __Computer Vision and Filtering Research__, Senior Project
 - Used Tensorflow, MediaPipe, OpenCV to detect faces and display an altered live feed 
 - Presented the project at BYU-I's Research and Creative Works Conference
 
+
+---
+
+
+## Education 
+`Graduation: July 2023`
+__Brigham Young University - Idaho__
+- Bachelor of Science in Data Science with a Minor in Communications
+
+
 ## Courses & Certificates
 __Machine Learning and Data Mining__ - BYU-Idaho
 - Lead a group in predicting sales by deploying a simple dense neural network
@@ -67,7 +85,3 @@ __Data Wrangling and Visualization__ - BYU-Idaho
 __Applied Linear Regression__ - BYU-Idaho
 - Validated the fit of models using R squared and adjusted R squared values
 - Created simple and multiple linear regression models to make inferences
-
-__Applied Calculus for Data Analysis__ - BYU-Idaho
-- Explored the transformation and fitting of distribution formulas to data points
-- Inferred about a population using gamma and exponential distributions on samples
