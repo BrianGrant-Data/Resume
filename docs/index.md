@@ -50,37 +50,24 @@ __Assistant Team Manager__, BYU-Idaho Data Science Society
 ---
 
 
-## Hard Skills
-- Python
-- SQL
-- R
-- Microsoft Power BI
-- Microsoft Power Query
-- Git & Github
-
-
-## Projects
-`Sep - Dec 2022`
-__Construction Cost Inflation Prediction__, Consulting Project
-- Produced a data pipeline for feeding API data into regression models
-- Debugged code and prepared code for handling potential future errors
-
-`Jan - Apr 2022`
-__Real-Time Feature Recognition Using Computer Vision__, Senior Project
-- Programmed a computer vision application that monitored and edited video streams in real-time at 10+ FPS
-
-
----
-
-
 ## Education 
 `Graduation: July 2023`
 __Brigham Young University - Idaho__
 - Bachelor of Science in Data Science, with a Minor in Communications
 
 
+## Projects
+`Sep - Dec 2022`
+__Construction Cost Inflation Prediction__, BYU-I Consulting Project
+- Produced a data pipeline for feeding API data into regression models
+- Debugged code and prepared code for handling potential future errors
 
-## Courses & Certificates
+`Jan - Apr 2022`
+__Real-Time Feature Recognition Using Computer Vision__, BYU-I Senior Project
+- Programmed a computer vision application that monitored and edited video streams in real-time at 10+ FPS
+
+
+## Other Courses & Certificates
 __Machine Learning and Data Mining__ - BYU-Idaho
 - Lead a group in predicting sales by deploying a simple dense neural network
 - Constructed convolutional neural networks and recursive neural networks
