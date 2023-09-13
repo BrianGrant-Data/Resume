@@ -24,7 +24,7 @@ __Brigham Young University - Idaho__
 
 
 ## Work Experience
-`Aor 2023 - Current`
+`Aor 2023 - Jul 2023`
 __Junior Analyst__, the Research & Business Development Center
 - A 300 hour internship
 - Used data gathered by the team to advise a business through their first expansion 
