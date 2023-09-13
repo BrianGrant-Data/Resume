@@ -65,8 +65,8 @@ __Construction Cost Inflation Prediction__, BYU-I Consulting Project
 - Debugged code and prepared code for handling potential future errors
 
 `Jan - Apr 2022`
-__Real-Time Feature Recognition Using Computer Vision__, BYU-I Senior Project
-- Programmed a computer vision application that monitored and edited video streams in real-time at 10+ FPS
+__Real-Time Content Moderation__, BYU-I Senior Project
+- Implemented OpenCV & MediaPipe computer vision models to monitor and edit video streams at 10+ FPS
 
 
 ### Other Courses & Certificates
