@@ -6,7 +6,7 @@ title: Brian Grant's Master Resume
 Data Science Student & Communication Specialist
 
 <div id="webaddress">
-<a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
+<a href="mailto:briangrant.data@gmail.com">briangrant.data@gmail.com</a>
 | <a href="https://linkedin.com/in/BrianGrant-Data">linkedin.com/in/BrianGrant-Data</a>
 | <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
 </div>
