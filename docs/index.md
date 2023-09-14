@@ -7,7 +7,7 @@ title: Brian Grant's Resume
 Recent Data Science Graduate with Excellent Communication and Problem-Solving Skills, Eager to Contribute Data-Driven Value
 <div id="webaddress">
 Email: <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
-| LinkedIn: <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
+| LinkedIn: <a href="https://linkedin.com/in/BrianGrant-Data">linkedin.com/in/BrianGrant-Data</a>
 | GitHub: <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
 
 </div>
