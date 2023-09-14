@@ -7,7 +7,7 @@ title: Brian Grant's Resume
 Recent data science graduate eager to contribute data-driven value
 <div id="webaddress">
 <a href="mailto:briangrant.byui@gmail.com">briangrant.byui@gmail.com</a>
-| <a href="https://linkedin.com/in/BrianGrant">linkedin.com/in/BrianGrant</a>
+| <a href="https://linkedin.com/in/BrianGrant-Data">linkedin.com/in/BrianGrant-Data</a>
 | <a href="https://github.com/BrianGrant-Data">github.com/BrianGrant-Data</a>
 
 </div>
