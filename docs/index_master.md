@@ -24,7 +24,11 @@ __Brigham Young University - Idaho__
 
 
 ## Work Experience
-`Aor 2023 - Current`
+
+`Jan 2024 - Current`
+__Business Analyst__, Horizon Bank
+
+`Apr 2023 - Sep 2023`
 __Junior Analyst__, Internship at the Research & Business Development Center 
 - Used survey and data gathering to advise a business through their first expansion 
 - Utilized Agile methodologies to lead a team of 6 analysts in a hybrid work environment
