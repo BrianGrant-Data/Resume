@@ -21,6 +21,10 @@ Python | R | SQL | Microsoft Power BI | Power Queries | Machine Learning | Inter
 
 ## Related Experience
 
+### Employment
+`Jan 2024 - Current`
+__Business Analyst__, Horizon Bank
+
 ### Internship
 `Jul 2023 - Sep 2023`
 __Data Analyst__, the Research & Business Development Center
@@ -43,11 +47,6 @@ __Team Manager__, BYU-Idaho Data Science Society
 - Provided exploratory geographic analysis of Idaho residential & commercial properties
 - Led a team of 2 data analysts through geojson data manipulation and visualization
 - Taught a team virtual environments and other trouble shooting techniques
-
-`Jan - Mar 2021`
-__Assistant Team Manager__, BYU-Idaho Data Science Society
-- Optimized a multi-linear regression model for use in production processes
-- Guided a team of 9 data analysts in gathering executable insights from raw data
 
 
 ---
