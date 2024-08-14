@@ -4,7 +4,7 @@ title: Brian Grant's Resume
 ---
 
 # Brian Grant
-Data analyst eager to contribute data-driven value
+Data Analyst Eager to Contribute Data-Driven Value
 <div id="webaddress">
 <a href="mailto:briangrant.data@gmail.com">briangrant.data@gmail.com</a>
 | <a href="https://linkedin.com/in/BrianGrant-Data">linkedin.com/in/BrianGrant-Data</a>
