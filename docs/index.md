@@ -22,7 +22,7 @@ __Brigham Young University - Idaho__
 
 ## Skills
 - __SQL__ (Stored Procedures, Bulk Insert/Load)
-- __R__ (Interative documents, ggplot2)
+- __R__ (Interative Documents, ggplot2)
 - __Python__ (Virtual Environments) 
 - __Excel__ (Power Queries, VBA, DAX, Macros) 
 - __Microsoft Power BI__
@@ -35,8 +35,9 @@ __Brigham Young University - Idaho__
 ### Employment
 `Jan 2024 - Current`
 __Business Analyst__, Horizon Bank
-- Create and maintain bank KPI reports using SQL, Tableau, Power BI, and Excel  
-
+- Diagnosed and resolved technical bugs on Power Bi and Tableau
+- Utilized SQL to maintain, update, and verify accuracy of large databases
+  
 `Sep 2020 - Apr 2023`
 __Credit Consultant__, Progrexion
 - Evaluated and pitched credit repair options to potential customers 
@@ -48,7 +49,7 @@ __Data Analyst__, the Research & Business Development Center
 
 `Aor 2023 - Jul 2023`
 __Data Analyst & SCRUM Master__, the Research & Business Development Center
-- Evaluated $25,000 monthly sports facility leases for market readiness based on survey responses, US Census API data, and ArcGIS data
+- Evaluated sports facility leases for market readiness based on survey responses, US Census API data, and ArcGIS data
 
 ### Volunteer
 `Apr - Jul 2021`
