@@ -4,7 +4,7 @@ title: Brian Grant's Resume
 ---
 
 # Brian Grant
-Data Analyst Eager to Contribute Data-Driven Value
+Data Analyst eager to contribute data-driven value
 <div id="webaddress">
 <a href="mailto:briangrant.data@gmail.com">briangrant.data@gmail.com</a>
 | <a href="https://linkedin.com/in/BrianGrant-Data">linkedin.com/in/BrianGrant-Data</a>
@@ -21,14 +21,14 @@ __Brigham Young University - Idaho__
 - Bachelor of Science in Data Science, with a Minor in Communications
 
 ## Skills
-- SQL (Stored Procedures, Bulk Insert/Load)
-- R (Interative documents, ggplot2)
-- Python (Virtual Environments) 
-- Excel (Power Queries, VBA, DAX, Macros) 
-- Microsoft Power BI
-- Intermediate Statistics 
-- Regression Modeling
-- Machine Learning
+- __SQL__ (Stored Procedures, Bulk Insert/Load)
+- __R__ (Interative documents, ggplot2)
+- __Python__ (Virtual Environments) 
+- __Excel__ (Power Queries, VBA, DAX, Macros) 
+- __Microsoft Power BI__
+- __Intermediate Statistics__ 
+- __Regression Modeling__
+- __Machine Learning__
 
 ## Related Experience
 
