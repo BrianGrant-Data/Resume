@@ -21,7 +21,14 @@ __Brigham Young University - Idaho__
 - Bachelor of Science in Data Science, with a Minor in Communications
 
 ## Skills
-SQL | R | Python | Microsoft Power BI | Excel (Power Queries) | Intermediate Statistics | Regression Modeling | Machine Learning 
+- SQL (Stored Procedures, Bulk Insert/Load)
+- R (Interative documents, ggplot2)
+- Python (Virtual Environments) 
+- Excel (Power Queries, VBA, DAX, Macros) 
+- Microsoft Power BI
+- Intermediate Statistics 
+- Regression Modeling
+- Machine Learning
 
 ## Related Experience
 
@@ -47,10 +54,6 @@ __Data Analyst & SCRUM Master__, the Research & Business Development Center
 `Apr - Jul 2021`
 __Team Manager__, BYU-Idaho Data Science Society
 - Led a team of 2 data analysts through geojson data manipulation and visualization
-
-
----
-
 
 ### Projects
 `Sep - Dec 2022`
